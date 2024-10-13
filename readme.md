@@ -6,4 +6,13 @@ and then type node -v or node --version
 if the result show a node version example "v19.xx.xx"
 your computer was installed nodejs
 
+## ATTENTION 
+Installation guide ;
+npm install 
+yarn install
+
+Running Dev guide
+npm run dev
+yarn run dev
+
 goodluck
