@@ -7,12 +7,12 @@ if the result show a node version example "v19.xx.xx"
 your computer was installed nodejs
 
 ## ATTENTION 
-Installation guide ;
-npm install 
-yarn install
+Installation guide ; <br>
+npm install <br>
+yarn install <br>
 
-Running Dev guide
-npm run dev
-yarn run dev
+Running Dev guide<br>
+npm run dev <br>
+yarn run dev <br>
 
 goodluck
